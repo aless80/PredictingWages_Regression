@@ -5,7 +5,7 @@ Python implementation of a case study in Module 2 of the MITProfessionalX course
 The case study is: "Module 2 Case Study - Regression and prediction". This case study is about doing linear regression in R on wages data. I did it in python using two different libraries. 
 
 ## Points of interest
-The analysis is relatively simple (linear regression), but it might be interesting to see how to do it using the two libraries, [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) and [Patsy](https://patsy.readthedocs.io/en/latest/#) + [statsmodels](http://www.statsmodels.org/stable/index.html#). 
+The analysis is relatively simple (linear regression), but it might be interesting to see how to do it using the two libraries, [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) and [patsy](https://patsy.readthedocs.io/en/latest/#) + [statsmodels](http://www.statsmodels.org/stable/index.html#). 
 
 Also, it is interesting how features were created from the existing ones in the "flexible" model by calculating interactions between existing features. For this task [patsy]([Patsy](https://patsy.readthedocs.io/en/latest/#) was really handy.
 

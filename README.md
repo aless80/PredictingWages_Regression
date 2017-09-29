@@ -7,7 +7,7 @@ The case study is: "Module 2 Case Study - Regression and prediction". This case 
 ## Points of interest
 The analysis is relatively simple (linear regression), but it might be interesting to see how to do it using the two libraries, [sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) and [patsy](https://patsy.readthedocs.io/en/latest/#) + [statsmodels](http://www.statsmodels.org/stable/index.html#). 
 
-Also, it is interesting how features were created from the existing ones in the "flexible" model by calculating interactions between existing features. For this task [patsy]([Patsy](https://patsy.readthedocs.io/en/latest/#) was really handy.
+Also, it is interesting how features were created from the existing ones in the "flexible" model by calculating interactions between existing features. For this task [patsy](https://patsy.readthedocs.io/en/latest/#) was really handy.
 
 Cross validating does not make fully sense in this case but it is intersting to see anyway.
 

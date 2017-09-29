@@ -1,0 +1,18 @@
+# Python byte-code
+*.py[co]
+
+# virutalenv directories
+/env*/
+
+# setup directory
+/dist/
+/build/
+
+# ipython checkpoints
+.ipynb_checkpoints
+
+# pdf from MIT course
+Regression2.1.pdf
+
+/.idea/
+/__MACOSX/

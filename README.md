@@ -9,7 +9,7 @@ The analysis is relatively simple (linear regression), but it might be interesti
 
 Also, it is interesting how features were created from the existing ones in the "flexible" model by calculating interactions between existing features. For this task [patsy](https://patsy.readthedocs.io/en/latest/#) was really handy.
 
-Cross validating does not make fully sense in this case but it is intersting to see anyway.
+Cross validating does not make fully sense in this case but it is interesting to see anyway.
 
 ---
 
